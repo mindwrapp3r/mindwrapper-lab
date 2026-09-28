@@ -6,6 +6,6 @@ Code achter de posts op [mindwrapper.net](https://mindwrapper.net). Eén map per
 
 | Folder | Post |
 |---|---|
-| [`reisgids/`](reisgids/) | [Een reisgids die je al kent](https://mindwrapper.net/nl/posts/een-reisgids-die-je-kent) · [A travel guide that already knows you](https://mindwrapper.net/en/posts/a-travel-guide-that-knows-you) |
+| [`reisgids/`](reisgids/) | [Bouw een eigen audio-reisgids](https://mindwrapper.net/nl/posts/bouw-een-eigen-audio-reisgids) · [Build your own audio travel guide](https://mindwrapper.net/en/posts/build-your-own-audio-travel-guide) |
 
 Written by AI, curated and reviewed by Mindwrapper. / Geschreven door AI, samengesteld en gecontroleerd door Mindwrapper.
